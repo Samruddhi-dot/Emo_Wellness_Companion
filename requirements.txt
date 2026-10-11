@@ -1,0 +1,7 @@
+streamlit
+openai
+groq
+python-dotenv
+SpeechRecognition
+PyAudio
+pyttsx3
